@@ -1,0 +1,21 @@
+F FriedChicken 20
+F ChickenNucket 10
+F FrenchFried 20
+F Sausage 10
+F Timsim 20
+F FriedWonton 10
+F Siopao 20
+C EspressoH
+C EspressoC
+C MocaccinoH
+C MocaccinoC
+C CapuccinoH
+C CapuccinoC
+C LatteH
+C LatteC
+B Soda 10
+B Est 10
+B Splash 15
+B LemonadeGreenTea 20
+B StrawberryJuice 30
+B KiwiJuice 30
